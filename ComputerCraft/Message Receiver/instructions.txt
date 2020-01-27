@@ -1,0 +1,3 @@
+Each file is named after the name it should get inside the ingame disk.
+
+In order to get the program working, you have to copy the code exactly the same as it is written in the files in this folder.
